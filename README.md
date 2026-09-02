@@ -3,7 +3,7 @@
   Public info only (itch.io YC-Eagle / bonjour.bio/yc-eagle).
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher;digital+media+%26+game+studies" alt="Typing SVG — YC Eagle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle+%C2%B7+%E8%BD%B6%E8%BE%B0;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher+%7C+digital+media+%26+game+studies;puzzle-as-a-medium+%C2%B7+Hanzi+systems+%C2%B7+ARG+%C2%B7+AI-native+tools" alt="Typing SVG — YC Eagle" />
 </p>
 
 <p align="center">
@@ -39,17 +39,17 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 
 ## Repos
 
-<p align="center">
-  <a href="https://github.com/yc-eagle/infoflow-simulator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yc-eagle&repo=infoflow-simulator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yc-eagle/LILAC_APP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yc-eagle&repo=LILAC_APP&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yc-eagle/Tunta-extension">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yc-eagle&repo=Tunta-extension&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- **[infoflow-simulator](https://github.com/yc-eagle/infoflow-simulator)** — telemetry dashboard for information-engagement analytics (HTML, MIT)
+
+  <img alt="stars" src="https://img.shields.io/github/stars/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="forks" src="https://img.shields.io/github/forks/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="license" src="https://img.shields.io/github/license/yc-eagle/infoflow-simulator?style=flat-square&labelColor=1e293b" />
+
+- **[LILAC_APP](https://github.com/yc-eagle/LILAC_APP)** — LILAC Puzzle official app (work-in-progress mirror)
+
+  <img alt="stars" src="https://img.shields.io/github/stars/yc-eagle/LILAC_APP?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="forks" src="https://img.shields.io/github/forks/yc-eagle/LILAC_APP?style=flat-square&logo=github&labelColor=1e293b" />
+
+- **[Tunta-extension](https://github.com/yc-eagle/Tunta-extension)** — zero-trust snapshot-based semantic retrieval extension
+
+  <img alt="stars" src="https://img.shields.io/github/stars/yc-eagle/Tunta-extension?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="forks" src="https://img.shields.io/github/forks/yc-eagle/Tunta-extension?style=flat-square&logo=github&labelColor=1e293b" />
 
 ## Selected events & interactive projects
 
@@ -72,25 +72,15 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 ## GitHub activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yc-eagle&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yc-eagle&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=yc-eagle&theme=tokyonight&hide_border=true" alt="Commit streak" />
 </p>
 
-## Activity graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yc-eagle&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&height=300" alt="Commit activity graph" />
+  <img alt="followers" src="https://img.shields.io/github/followers/yc-eagle?style=flat-square&label=followers&color=38BDF8" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=yc-eagle&color=38BDF8&style=flat-square" />
 </p>
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yc-eagle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub trophies" />
-</p>
+GitHub-native achievements: Quickdraw · Pair Extraordinaire
 
 ## Toolbox
 
@@ -117,6 +107,6 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
   1) Typing lines  → edit `lines=` params (URL-encode spaces as +)
   2) Skill icons   → https://skillicons.dev
   3) Card theme    → change `theme=tokyonight` (radical, nightowl, onedark…)
-  4) Activity graph → https://github.com/Ashutosh00710/github-readme-activity-graph
-  5) Trophies      → https://github.com/ryo-ma/github-profile-trophy
+  4) Streak card   → https://streak-stats.demolab.com
+  5) Views badge   → https://komarev.com/ghpvc
 -->
