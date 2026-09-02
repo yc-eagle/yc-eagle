@@ -3,7 +3,7 @@
   Public info only (itch.io YC-Eagle / bonjour.bio/yc-eagle).
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle+%C2%B7+%E8%BD%B6%E8%BE%B0;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher+%7C+digital+media+%26+game+studies;puzzle-as-a-medium+%C2%B7+Hanzi+systems+%C2%B7+ARG+%C2%B7+AI-native+tools" alt="Typing SVG — YC Eagle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher;digital+media+%26+game+studies" alt="Typing SVG — YC Eagle" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 | Project | Role | Tags |
 | --- | --- | --- |
 | **infoflow-simulator** — telemetry dashboard for information-engagement analytics | author (HTML, MIT) | `data-viz` `dashboard` `telemetry` |
-| **Tunta (tunta.xyz)** — zero-trust snapshot-based semantic retrieval extension | product-operations lead, AdventureX 2026 | `zero-trust` `RAG` `snapshot` `browser-extension` |
+| **[Tunta (tunta.xyz)](https://tunta.xyz)** — zero-trust snapshot-based semantic retrieval extension | product-operations lead, AdventureX 2026 | `zero-trust` `RAG` `snapshot` `browser-extension` |
 | **[LILAC: SAŊ](https://yc-eagle.itch.io/lilac-sang)** — cross-city location-based ARG | independent producer & core-mechanic designer | `location-based` `ARG` `hybrid-reality` `cross-city` |
 | **Puzzlers' Day** — national multi-city puzzle convention (5 cities, 2024–2025) | core planner & coordinator | `community` `multi-city` `event` |
 | **NSPH** — first nationwide school puzzle hunt (NAPCA) | founder & lead | `education` `Puzzle-Hunt` `nationwide` |
@@ -69,26 +69,11 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 - Turning AI-agent workflows into real game-dev and community-automation pipelines; picking up more programming (TypeScript, WebGL/HTML5).
 - Quantitative game-design research: applying Game Refinement Theory to player-engagement modelling.
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yc-eagle&theme=tokyonight&hide_border=true" alt="Commit streak" />
-</p>
-
-<p align="center">
-  <img alt="followers" src="https://img.shields.io/github/followers/yc-eagle?style=flat-square&label=followers&color=38BDF8" />
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=yc-eagle&color=38BDF8&style=flat-square" />
-</p>
-
-GitHub-native achievements: Quickdraw · Pair Extraordinaire
-
 ## Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vercel&theme=dark" alt="Tools" />
 </p>
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Git/GitHub` · `Vercel` — beyond code: puzzle construction, event & game design, graphic design & layout, community building.
 
 ## Find me
 
@@ -107,6 +92,4 @@ GitHub-native achievements: Quickdraw · Pair Extraordinaire
   1) Typing lines  → edit `lines=` params (URL-encode spaces as +)
   2) Skill icons   → https://skillicons.dev
   3) Card theme    → change `theme=tokyonight` (radical, nightowl, onedark…)
-  4) Streak card   → https://streak-stats.demolab.com
-  5) Views badge   → https://komarev.com/ghpvc
 -->
