@@ -41,7 +41,7 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 
 - **[infoflow-simulator](https://github.com/yc-eagle/infoflow-simulator)** — telemetry dashboard for information-engagement analytics (HTML, MIT)
 
-  <img alt="stars" src="https://img.shields.io/github/stars/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="forks" src="https://img.shields.io/github/forks/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="license" src="https://img.shields.io/github/license/yc-eagle/infoflow-simulator?style=flat-square&labelColor=1e293b" />
+  <img alt="stars" src="https://img.shields.io/github/stars/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" /> <img alt="forks" src="https://img.shields.io/github/forks/yc-eagle/infoflow-simulator?style=flat-square&logo=github&labelColor=1e293b" />
 
 - **[LILAC_APP](https://github.com/yc-eagle/LILAC_APP)** — LILAC Puzzle official app (work-in-progress mirror)
 
@@ -56,7 +56,7 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 | Project | Role | Tags |
 | --- | --- | --- |
 | **infoflow-simulator** — telemetry dashboard for information-engagement analytics | author (HTML, MIT) | `data-viz` `dashboard` `telemetry` |
-| **[Tunta (tunta.xyz)](https://tunta.xyz)** — zero-trust snapshot-based semantic retrieval extension | product-operations lead, AdventureX 2026 | `zero-trust` `RAG` `snapshot` `browser-extension` |
+| **[Tunta](https://tunta.xyz)** — zero-trust snapshot-based semantic retrieval extension | product-operations lead, AdventureX 2026 | `zero-trust` `RAG` `snapshot` `browser-extension` |
 | **[LILAC: SAŊ](https://yc-eagle.itch.io/lilac-sang)** — cross-city location-based ARG | independent producer & core-mechanic designer | `location-based` `ARG` `hybrid-reality` `cross-city` |
 | **Puzzlers' Day** — national multi-city puzzle convention (5 cities, 2024–2025) | core planner & coordinator | `community` `multi-city` `event` |
 | **NSPH** — first nationwide school puzzle hunt (NAPCA) | founder & lead | `education` `Puzzle-Hunt` `nationwide` |
