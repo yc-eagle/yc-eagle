@@ -3,7 +3,7 @@
   Public info only (itch.io YC-Eagle / bonjour.bio/yc-eagle).
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle+%C2%B7+%E8%BD%B6%E8%BE%B0;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher+%7C+digital+media+%26+game+studies;puzzle-as-a-medium+%C2%B7+Hanzi+systems+%C2%B7+ARG+%C2%B7+AI-native+tools" alt="Typing SVG — YC Eagle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher;digital+media+%26+game+studies" alt="Typing SVG — YC Eagle" />
 </p>
 
 <p align="center">
