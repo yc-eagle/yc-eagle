@@ -4,10 +4,6 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=73A2E8&height=140&section=header" alt="Wave divider" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=73A2E8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;practitioner-researcher;digital+media+%26+game+studies" alt="Typing SVG — YC Eagle" />
 </p>
 
@@ -70,13 +66,8 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 | WeChat | — | [LILAC 丁香谜 公众号](https://mp.weixin.qq.com/s/W8pKPlPn6-YzpTcsr0EVdw) |
 | Website | [Bonjour!](https://bonjour.bio/yc-eagle) · [Itch.io](https://yc-eagle.itch.io/) | [Linktree](https://linktr.ee/lilacpuzzle) |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=73A2E8&height=140&section=footer" alt="Wave divider" />
-</p>
-
 <!--
   Edit tips:
   1) Typing lines  → edit `lines=` params (URL-encode spaces as +)
-  2) Wave color    → `color=` in the two capsule-render URLs (header & footer)
-  3) Photos        → files in repo root: lilac-main-image.jpeg / memories-with-friends.png
+  2) Photos        → files in repo root: lilac-main-image.jpeg / memories-with-friends.png
 -->
