@@ -32,7 +32,7 @@ I work at the intersection of `game design theory` · `interactive media` · `pu
 ## Selected facts & honors
 
 - **Research & translation** — adapted Prof. Hiroyuki Iida's *Game Refinement Theory* with a multi-disciplinary team (initiated direct contact with his lab; obtained original papers); produced public-facing write-ups and an observer report for an e-games academic conference.
-- **Talks & publications** — invited speaker at *Celebration of Mind* (G4G16, China) on online puzzle-community practice (case: LILAC); journal article *Guess, Cut, Rearrange: Hanzi Factory* (2025).
+- **Talks & publications** — invited speaker at *Celebration of Mind* (G4G16, China) on online puzzle-community practice (case: LILAC); book chapter *Guess, Cut, Rearrange: Hanzi Factory* (2025).
 - **Hackathon & product** — AdventureX 2026, team "Mo Yu Shuang" product-operations lead; built **Tunta**, a zero-trust snapshot-based retrieval extension — featured by Cyzone.
 - **Teaching** — core instructor & academic host, Perk Summit 2026; designed a PBL workshop on campus-based multimedia interactive puzzle hunts.
 - **Community & events** — founded NAPCA (school puzzle clubs) and the first National School Puzzle Hunt (NSPH); lead organizer of Puzzlers' Day (5 cities); initiator of *China Puzzle Collection*; co-initiator of China Puzzle Award.
