@@ -66,6 +66,7 @@ Currently a Japanese major at Beijing Foreign Studies University (2024–2028), 
 | Platform | Me (YC Eagle) | LILAC Puzzle |
 | --- | --- | --- |
 | GitHub | [yc-eagle](https://github.com/yc-eagle) | [LILAC-Puzzle-Dev](https://github.com/LILAC-Puzzle-Dev) |
+| LinkedIn | [yc-eagle](https://www.linkedin.com/in/yc-eagle) | — |
 | X / Twitter | [@YC_Eagle](https://x.com/YC_Eagle) | [@LILAC_Puzzle](https://x.com/LILAC_Puzzle) |
 | Instagram | [eagle_yc](https://www.instagram.com/eagle_yc) | [lilac_puzzle_official](https://www.instagram.com/lilac_puzzle_official) |
 | RedNote | [轶辰 Eagle](https://xhslink.com/m/GCR3J8Pobd) | [LILAC 丁香谜](https://xhslink.com/m/39FFF4MGl5s) |
