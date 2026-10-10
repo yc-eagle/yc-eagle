@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=73A2E8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;puzzle+%26+game+mechanic+designer;practitioner-researcher;digital+media+%26+game+studies" alt="Typing SVG — YC Eagle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=73A2E8&center=true&vCenter=true&width=740&height=70&lines=YC+Eagle;founder+%26+director+%40+LILAC+Puzzle;player+behaviour+%26+data+visualisation;puzzle+%26+game+mechanic+designer;practitioner-researcher" alt="Typing SVG — YC Eagle" />
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ## Who I am
 
-**YC Eagle (轶辰)** — founder & director of [LILAC Puzzle](https://linktr.ee/lilacpuzzle) (est. 2022), an independent puzzle designer and a practitioner-researcher in digital media & game studies.
+**YC Eagle (轶辰)** — founder & director of [LILAC Puzzle](https://linktr.ee/lilacpuzzle) (est. 2022); an independent puzzle designer and a practitioner-researcher working across game studies, computational media and player-behaviour research.
 
-I work across `puzzle & game mechanic design` · `interactive media` · `game design theory` · `rapid prototyping`. Core focus: **Hanzi-based puzzle systems**, **hybrid-reality / ARG mechanics**, and the idea that *a puzzle can work as a medium* — for learning, connection and cultural expression.
+I work across `player behaviour & engagement` · `data visualisation` · `puzzle & game mechanic design` · `interactive media` · `rapid prototyping`. Core focus: **measuring why players keep playing** (behavioural telemetry, engagement metrics, game user research), **Hanzi-based puzzle systems**, and **hybrid-reality / ARG mechanics** — the idea that *a puzzle can work as a medium* for learning, connection and cultural expression.
 
-Currently a Japanese major at Beijing Foreign Studies University (2024–2028), based in Beijing. Japanese TEM-4 with distinction (90/100); English TEM-4, CET-4/CET-6.
+Currently a Japanese major at Beijing Foreign Studies University (2024–2028), based in Beijing. Japanese TEM-4 with distinction (90/100); English TEM-4, CET-4/CET-6. Planning graduate research abroad in game user research / computational media / HCI after graduating in June 2028.
 
 <p align="center">
   <img src="lilac-main-image.jpeg" alt="LILAC Puzzle — core key visual" />
