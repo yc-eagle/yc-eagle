@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://linktr.ee/lilacpuzzle"><img alt="LILAC Puzzle — links" src="https://img.shields.io/badge/-LILAC%20Hub-00C4CC?style=flat-square&logo=linktree&logoColor=white" /></a>
   <a href="https://github.com/LILAC-Puzzle-Dev"><img alt="LILAC Puzzle Dev org" src="https://img.shields.io/badge/-LILAC%20Puzzle%20Dev-6e5494?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yc-eagle"><img alt="LinkedIn yc-eagle" src="https://img.shields.io/badge/-LinkedIn%20%C2%B7%20yc--eagle-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/YC_Eagle"><img alt="X @YC_Eagle" src="https://img.shields.io/badge/-%40YC_Eagle-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/eagle_yc"><img alt="Instagram @eagle_yc" src="https://img.shields.io/badge/-eagle__yc-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://xhslink.com/m/GCR3J8Pobd"><img alt="RedNote 轶辰 Eagle" src="https://img.shields.io/badge/RedNote-%E8%BD%B6%E8%BE%B0%20Eagle-FF2442?style=flat-square" /></a>
